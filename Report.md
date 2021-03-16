@@ -35,5 +35,5 @@ Enviroment solved in @ i_episode=178, w/ avg_score=30.23
 ![average score](https://github.com/AhmedGharbi96/ContinuousControlWithDDPG/blob/main/DDPG_DRLN.png)
 
 ## Potential Improvements
-I would like to implement Distributed link[Distributional Deterministic Policy Gradients (D4PG] (https://arxiv.org/abs/1804.08617) algorithm and use it to solve
+I would like to implement Distributed [Distributional Deterministic Policy Gradients (D4PG](https://arxiv.org/abs/1804.08617) algorithm and use it to solve
 the 20 agents version of the environment.
