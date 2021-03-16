@@ -32,16 +32,8 @@ the environment. In the second part, we find the implementation. The second part
 # Plots
 The agent has successfully solved the environment after 178 episodes.
 ```
-Episode 1	Average Score: 0.00
-Episode 2	Average Score: 0.00
-Episode 3	Average Score: 0.00
-Episode 4	Average Score: 0.04
-Episode 5	Average Score: 0.07
-Episode 6	Average Score: 0.08
-...
 Episode 177	Average Score: 29.83
 Episode 178	Average Score: 30.23
-Enviroment solved in @ i_episode=178, w/ avg_score=30.23
 
 ```
 ![average score](https://github.com/AhmedGharbi96/ContinuousControlWithDDPG/blob/main/DDPG_DRLN.png)
