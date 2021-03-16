@@ -32,4 +32,5 @@ Episode 178	Average Score: 30.23
 Enviroment solved in @ i_episode=178, w/ avg_score=30.23
 
 ```
+![average score](https://github.com/AhmedGharbi96/ContinuousControlWithDDPG/blob/main/DDPG_DRLN.png)
 
