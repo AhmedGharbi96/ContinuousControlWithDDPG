@@ -27,6 +27,9 @@ Episode 4	Average Score: 0.04
 Episode 5	Average Score: 0.07
 Episode 6	Average Score: 0.08
 ...
+Episode 177	Average Score: 29.83
+Episode 178	Average Score: 30.23
 Enviroment solved in @ i_episode=178, w/ avg_score=30.23
 
 ```
+
