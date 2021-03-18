@@ -25,6 +25,8 @@ conda create --name env_name python=3.6
 pip install pytorch pytorch
 pip install unityagents
 pip install mlagents
+pip install numpy
+pip install matplotlib
 ```
 Download the Reacher unity environment You can download the environment form one of the links below. Select the enviornment that matches your OS
 - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
